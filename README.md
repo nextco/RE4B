@@ -1,6 +1,8 @@
 # CPP Source Code from the amazing book: [Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners)
 - For Lazy/Beginner people like me, currently focused on x86 Microsotf Visual Studio.
 
+![][img/1.7.4-compare.png]
+
 
 ## Tools
 - [Visual C++ 2010 Express Edition](http://filehippo.com/es/download_visualc_2010_express_edition/tech/)
