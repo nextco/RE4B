@@ -3,6 +3,9 @@
 *.nam
 *.til
 
+## C++ Compiler - BCC101
+*.tds
+
 ## C++.gitignore
 # Prerequisites
 *.d
