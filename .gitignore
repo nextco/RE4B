@@ -40,3 +40,6 @@
 *.out
 *.app
 
+# IntelliJ IDEA
+*.idea
+*.iml

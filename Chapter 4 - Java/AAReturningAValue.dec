@@ -1,0 +1,46 @@
+Classfile /A:/sources/security/RE4B/Chapter 4 - Java/AAReturningAValue.class
+  Last modified Nov 5, 2017; size 280 bytes
+  MD5 checksum b036d8ba09c2709197159c96ce5182ab
+  Compiled from "AAReturningAValue.java"
+public class AAReturningAValue
+  minor version: 0
+  major version: 52
+  flags: ACC_PUBLIC, ACC_SUPER
+Constant pool:
+   #1 = Methodref          #3.#12         // java/lang/Object."<init>":()V
+   #2 = Class              #13            // AAReturningAValue
+   #3 = Class              #14            // java/lang/Object
+   #4 = Utf8               <init>
+   #5 = Utf8               ()V
+   #6 = Utf8               Code
+   #7 = Utf8               LineNumberTable
+   #8 = Utf8               main
+   #9 = Utf8               ([Ljava/lang/String;)I
+  #10 = Utf8               SourceFile
+  #11 = Utf8               AAReturningAValue.java
+  #12 = NameAndType        #4:#5          // "<init>":()V
+  #13 = Utf8               AAReturningAValue
+  #14 = Utf8               java/lang/Object
+{
+  public AAReturningAValue();
+    descriptor: ()V
+    flags: ACC_PUBLIC
+    Code:
+      stack=1, locals=1, args_size=1
+         0: aload_0
+         1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+         4: return
+      LineNumberTable:
+        line 2: 0
+
+  public static int main(java.lang.String[]);
+    descriptor: ([Ljava/lang/String;)I
+    flags: ACC_PUBLIC, ACC_STATIC
+    Code:
+      stack=1, locals=1, args_size=1
+         0: iconst_0
+         1: ireturn
+      LineNumberTable:
+        line 4: 0
+}
+SourceFile: "AAReturningAValue.java"
